@@ -1,0 +1,47 @@
+
+.blur{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+
+    .modal-wrapper{
+        width: 550px;
+        min-height: 400px;
+        background-color: #fff;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-52%, -50%);
+        border-radius: 10px;
+        .modal-title{
+            padding: 10px;
+            display: flex;
+            width: 100%;
+            justify-content: space-between;
+            h3{
+                width: 100%;
+            }
+
+            button{
+                width: 30px;
+                height: 30px;
+                background-color: #ccc;
+                display: flex;
+                justify-content: center;
+                text-align: center;
+                position: absolute;
+                right: 20px;
+                border-radius: 50%;
+                transition: .3s;
+                &:hover{
+                    color: red;
+                }
+            }
+        }
+    }
+}

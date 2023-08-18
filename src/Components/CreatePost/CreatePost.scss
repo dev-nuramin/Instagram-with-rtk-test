@@ -1,0 +1,45 @@
+
+.timeline-create-post{
+    background-color: #fff;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding: 10px;
+    
+    button{
+        border: none;
+        display: flex;
+        gap: 5px;
+        background-color: #fff;
+        align-items: center;
+        font-size: 18px;
+        cursor: pointer;
+        width: 100%;
+
+
+    }
+
+    .post-create{
+        padding: 10px;
+        input{
+            width: 100%;
+            height: 40px;
+            margin-bottom: 6px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            
+           
+            
+        }
+        button{
+            width: 100%;
+            background-color: #2973e8;
+            text-align: center;
+            color: #fff;
+            padding: 5px 0;
+            border-radius: 6px;
+            display: flex;
+            justify-content: center;
+        }
+    }
+}

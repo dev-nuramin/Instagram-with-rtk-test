@@ -1,0 +1,16 @@
+{
+    "posts" : [
+        {
+            "id" : 1,
+            "auth_name" : "Benu khala",
+            "auth_photo" : "https://th.bing.com/th/id/OIP.5jDol2JG_5dHGowmiVCKhgHaHa?pid=ImgDet&rs=1",
+            "name" : "This is my first projects",
+            "photo" : "https://th.bing.com/th/id/R.988dbf5fde558447f130588d7716bf20?rik=uh0sGmR3BMT5Yg&pid=ImgRaw&r=0",
+            "reactions" : {
+                "like" : 0,
+                "comments" : 0,
+                "dislike" : 0
+            }
+        }
+    ]
+}
