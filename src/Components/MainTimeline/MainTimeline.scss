@@ -6,6 +6,7 @@
     box-shadow: var(--shadow-1);
     margin-bottom: 15px;
     .auth-sec{
+        
         display: flex;
         gap: 10px;
         padding: 10px;
@@ -16,9 +17,27 @@
         }
     }
     .auth-detailes{
-        span{
-            font-size: 10px;
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+        .auth-content{
+            span{
+                font-size: 10px;
+            }
+            button{
+                position: absolute;
+                top: 10px;
+                left: 474px;
+                width: 30px;
+                height: 30px;
+                border-radius: 50%;
+                cursor: pointer;
+                border: none;
+                font-size: 18px;
+            }
         }
+       
+        
     }
     .post-content{
         padding: 10px;

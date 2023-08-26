@@ -1,16 +1,43 @@
 {
-    "posts" : [
-        {
-            "id" : 1,
-            "auth_name" : "Benu khala",
-            "auth_photo" : "https://th.bing.com/th/id/OIP.5jDol2JG_5dHGowmiVCKhgHaHa?pid=ImgDet&rs=1",
-            "name" : "This is my first projects",
-            "photo" : "https://th.bing.com/th/id/R.988dbf5fde558447f130588d7716bf20?rik=uh0sGmR3BMT5Yg&pid=ImgRaw&r=0",
-            "reactions" : {
-                "like" : 0,
-                "comments" : 0,
-                "dislike" : 0
-            }
-        }
-    ]
+  "posts": [
+    {
+      "auth_name": "Nur Amin",
+      "auth_photo": "https://th.bing.com/th/id/R.14ff30b91db0f592b22f3f178df83cfa?rik=M3g3tjoPwakJcg&pid=ImgRaw&r=0",
+      "content": "loremm impsum loreto hetvlcu kjhcis ",
+      "photo": "https://th.bing.com/th/id/R.b11d472ea376ecf976a74abc955bddb8?rik=%2fYi7y3IQbALN8Q&pid=ImgRaw&r=0",
+      "post_time": 1693061121046,
+      "reactions": {
+        "like": 0,
+        "comment": 0,
+        "dislike": 0
+      },
+      "id": 4
+    },
+    {
+      "auth_name": "Nur Amin",
+      "auth_photo": "https://th.bing.com/th/id/R.14ff30b91db0f592b22f3f178df83cfa?rik=M3g3tjoPwakJcg&pid=ImgRaw&r=0",
+      "content": "loremm impsum loreto hetvlcu kjhcis ",
+      "photo": "https://th.bing.com/th/id/R.b11d472ea376ecf976a74abc955bddb8?rik=%2fYi7y3IQbALN8Q&pid=ImgRaw&r=0",
+      "post_time": 1693061121046,
+      "reactions": {
+        "like": 0,
+        "comment": 0,
+        "dislike": 0
+      },
+      "id": 5
+    },
+    {
+      "auth_name": "Najifa's Creative world",
+      "auth_photo": "https://th.bing.com/th/id/R.14ff30b91db0f592b22f3f178df83cfa?rik=M3g3tjoPwakJcg&pid=ImgRaw&r=0",
+      "content": "loremm impsum loreto hetvlcu kjhcis ",
+      "photo": "https://th.bing.com/th/id/R.b11d472ea376ecf976a74abc955bddb8?rik=%2fYi7y3IQbALN8Q&pid=ImgRaw&r=0",
+      "post_time": 1693068393462,
+      "reactions": {
+        "like": 0,
+        "comment": 0,
+        "dislike": 0
+      },
+      "id": 6
+    }
+  ]
 }
